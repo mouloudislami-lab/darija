@@ -1,0 +1,12 @@
+<resources>
+    <color name="primary">#0D7377</color>
+    <color name="primary_dark">#14FFEC</color>
+    <color name="accent">#FF5722</color>
+    <color name="background">#F7F9FB</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="bubble_normal">#0D7377</color>
+    <color name="bubble_processing">#FF9800</color>
+    <color name="bubble_speaking">#4CAF50</color>
+</resources>
